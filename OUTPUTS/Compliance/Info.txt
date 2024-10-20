@@ -1,0 +1,5 @@
+SKU: 333069
+Full product name: Accelerometer & Gyroscope & Magnetometer LSM9DS1TR breakout
+Country of origin: Croatia
+HS tariff code: 90319000
+EAN/UPC barcode: 732388670505
